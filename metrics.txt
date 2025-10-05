@@ -1,0 +1,6 @@
+Host: localhost
+DB: postgres
+User:postgres
+Pwd:postgres
+
+grafana: https://prashanthmetrics.grafana.net/

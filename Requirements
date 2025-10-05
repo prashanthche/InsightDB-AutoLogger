@@ -1,0 +1,6 @@
+psycopg2
+psutil
+faker
+fpdf
+pyautogui
+pillow
